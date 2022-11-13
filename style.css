@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.heading{
+    font-size: 24px;
+    font-weight: 700;
+    color: red;
+}
+p{
+    font-size: 24px;
+    font-weight: 700;
+    color: blue;
+}
+.likes{
+    color: rebeccapurple;
+    padding: 10px;
+}
+#one{
+    color: black;
+}
+
+.dislikes{
+    border: 2px solid black;
+    color: grey;
+}
+
+#two{
+    color: brown;
+    border: 2px solid greenyellow;
+}
